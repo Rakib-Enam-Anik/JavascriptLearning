@@ -1,3 +1,5 @@
+// Write a JavaScript program to test whether an array of integers of length 2 contains 1 or 3. 
+
 function contains13(nums){
     if(nums.indexOf(1) != -1 || nums.indexOf(3) != -1){
         return true
