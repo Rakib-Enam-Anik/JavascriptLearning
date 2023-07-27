@@ -1,0 +1,1 @@
+//Write a JavaScript program to remove all elements from a given stack.
