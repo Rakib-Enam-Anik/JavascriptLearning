@@ -6,7 +6,7 @@ function array_binarySearch(narray, delement){
     if (narray[mposition] === 1){
         return mposition;
     }
-    elsse if (narray.length === 1){
+    else if (narray.length === 1){
         return null;
     }
 
